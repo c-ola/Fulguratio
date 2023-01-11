@@ -1,0 +1,13 @@
+{
+    "item.fulguratio.fire_essence": "Fire",
+    "item.fulguratio.water_essence": "Water",
+    "item.fulguratio.air_essence": "Air",
+    "item.fulguratio.earth_essence": "Earth",
+    "item.fulguratio.fulgurium": "Fulgurium",
+    "item.fulguratio.lightning_essence": "Lightning",
+
+    
+    "block.fulguratio.fulgurium_block": "Fulgurium Block",
+    "block.fulguratio.crystalarium_block": "Crystalarium Block",
+    "itemGroup.fulguratio.fulguratioTab": "Fulguratio"
+}

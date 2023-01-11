@@ -1,6 +1,6 @@
 {
     "parent": "item/generated",
     "textures": {
-        "layer0": "somemods:items/fire_essence"
+        "layer0": "fulguratio:item/water_essence"
     }
 }
