@@ -1,0 +1,14 @@
+IDEAS
+
+MAIN IDEA: Fulguratio
+control lightning and other elements
+
+turns into fungal magic mod for the late game
+
+-add a taser
+-add armor
+-add magic with the essence stuff and essence crafting
+-probably a book at some point
+
+Documentation
+https://docs.minecraftforge.net/en/1.19.x/

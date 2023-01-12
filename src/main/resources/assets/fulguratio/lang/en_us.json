@@ -6,8 +6,9 @@
     "item.fulguratio.fulgurium": "Fulgurium",
     "item.fulguratio.lightning_essence": "Lightning",
 
-    
     "block.fulguratio.fulgurium_block": "Fulgurium Block",
+    "block.fulguratio.fulgurium_ore": "Fulgurium Ore",
     "block.fulguratio.crystalarium_block": "Crystalarium Block",
+    
     "itemGroup.fulguratio.fulguratioTab": "Fulguratio"
 }

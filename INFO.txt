@@ -1,5 +1,0 @@
-Minecraft Mod
--Will just add random stuff that might be interesting
-
-Documentation
-https://docs.minecraftforge.net/en/1.19.2/
