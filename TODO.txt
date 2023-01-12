@@ -8,7 +8,20 @@ turns into fungal magic mod for the late game
 -add a taser
 -add armor
 -add magic with the essence stuff and essence crafting
+    -this can be something like magical alchemy crafting? being high can help with ideas
+        -fulgurium is used as the catalyst or something and you combine different elements to make new ones
+    -awakened fulgurium stuff (stronger basic fulgurium tools, more things to do with it)
+
+-matgic weapons from the crafting or something
+
 -probably a book at some point
+
+
+TODO in order
+    -armor and tools
+    -textures for elements
+    -element crafting
+    -special weapons + taser
 
 Documentation
 https://docs.minecraftforge.net/en/1.19.x/
