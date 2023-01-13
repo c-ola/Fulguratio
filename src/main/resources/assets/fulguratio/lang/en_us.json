@@ -4,11 +4,24 @@
     "item.fulguratio.air_essence": "Air",
     "item.fulguratio.earth_essence": "Earth",
     "item.fulguratio.fulgurium": "Fulgurium",
+    "item.fulguratio.fulgurium_awakened": "Awakened Fulgurium",
     "item.fulguratio.lightning_essence": "Lightning",
+
+    "item.fulguratio.fulgurium_helmet":"Fulgurium Helmet",
+    "item.fulguratio.fulgurium_chestplate":"Fulguriu Chestplate",
+    "item.fulguratio.fulgurium_leggings":"Fulguriu Leggings",
+    "item.fulguratio.fulgurium_boots":"Fulguriu Boots",
+
+    "item.fulguratio.fulgurium_sword":"Fulgurium Sword",
+    "item.fulguratio.fulgurium_pickaxe":"Fulgurium Pickaxe",
+    "item.fulguratio.fulgurium_axe":"Fulgurium Axe",
+    "item.fulguratio.fulgurium_shovel":"Fulgurium Shovel",
+    "item.fulguratio.fulgurium_hoe":"Fulgurium Hoe",
 
     "block.fulguratio.fulgurium_block": "Fulgurium Block",
     "block.fulguratio.fulgurium_ore": "Fulgurium Ore",
     "block.fulguratio.crystalarium_block": "Crystalarium Block",
+    "block.fulguratio.essence_crafting_table": "Essence Crafting Table",
     
     "itemGroup.fulguratio.fulguratioTab": "Fulguratio"
 }
